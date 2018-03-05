@@ -1,10 +1,6 @@
 # ProgrammingAssignment2
-makeCacheMatrix<-function(x=matrix()) {
-inv<-NULL
-set<-function
-
 makeCacheMatrix <- function(x = matrix()) {
-    inv <- NULL
+ inv <- NULL
     set <- function(y) {
         x <<- y
         inv <<- NULL
